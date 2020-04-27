@@ -117,6 +117,7 @@
             this.btn_PAGOS.TabIndex = 6;
             this.btn_PAGOS.Text = "PAGOS NO CAJA";
             this.btn_PAGOS.UseVisualStyleBackColor = true;
+            this.btn_PAGOS.Visible = false;
             this.btn_PAGOS.Click += new System.EventHandler(this.button1_Click);
             // 
             // frmInicioCaja
